@@ -1,0 +1,49 @@
+.container {
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#computer-choice {
+    height: 75px;
+    width: 100px;
+    padding: 0;
+    margin: 25px auto 0 auto;
+    border-left: solid 10px #eb4862;
+    border-right: solid 10px #6681f6;
+    border-top: solid 10px #5fda5e;
+    border-bottom: solid 10px #f2d426;
+    
+}
+
+#user-score {
+    height: 150px;
+    margin-top: 20px;
+}
+
+#totals {
+    height: 50px;
+}
+
+#computer-choice,
+#user-score {
+    font-size: 35pt;
+}
+
+.crystal {
+    width: 200px;
+    margin: 0 15px;
+}
+
+#instruction {
+    margin-bottom: 15px;
+}
+
+#header {
+    height: 100px;
+}
+
+h1 {
+   line-height: 50px;
+}
+
